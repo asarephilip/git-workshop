@@ -1,2 +1,3 @@
 Hello new file
 Another line from user B
+Add anothr line
